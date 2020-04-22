@@ -26,4 +26,5 @@
  
 #### Installation Troubleshooting
 
-If you receive the error message `-bash: mesa: command not found` when trying to install mesa, then you need to edit your computer's PATH variable https://osxdaily.com/2018/05/24/command-not-found-mac-terminal-error-fix/
+If you receive the error message `-bash: mesa: command not found` when trying to install mesa, run the following in your command line:
+`export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"` and then close and reopen the terminal.
