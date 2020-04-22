@@ -9,7 +9,7 @@
 
 2. Install pip for python 3 https://pip.pypa.io/en/stable/installing/
 
-3. Install mesa by running `$ pip install mesa` or `$ pip3 install mesa` in the command line/terminal (do not type the `$` into the command line)
+3. Install mesa by running `$ pip install mesa` (or if that does not work then `$ pip3 install mesa`) in the command line/terminal. Do not type the `$` into the command line/terminal.
 
 4. Navigate to the ABM-Dance-Party-master folder using the command line/terminal.
   If the `ABM-Dance-Party-master` folder is in your downloads folder, you would navigate to it with the following commands:
