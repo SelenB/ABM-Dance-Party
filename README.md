@@ -22,4 +22,4 @@
  
  6. Adjust the sliders to change the composition of personality types at the party, click reset, and click start to run the simulation.
  
- 7. Whenever you want to change the composition of the party and run the simulation again, remember to click reset before clicking start.
+ 7. Whenever you want to change the composition of the party and run the simulation again, remember to click reset before clicking start to update the composition of the party.
